@@ -17,6 +17,7 @@ If you want to execute local environment, please execute following steps.
 execute build command
 
 ```
+npm install
 npm run build
 ```
 
